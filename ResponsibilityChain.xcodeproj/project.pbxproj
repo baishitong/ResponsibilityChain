@@ -14,12 +14,12 @@
 		6D632B6823795F2400538240 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6D632B6623795F2400538240 /* LaunchScreen.storyboard */; };
 		6D632B6B23795F2400538240 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B6A23795F2400538240 /* main.m */; };
 		6D632B7423795F8E00538240 /* DJQTextFiledTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B7223795F8E00538240 /* DJQTextFiledTitleView.m */; };
-		6D632B7E2379626600538240 /* NSObject+ResponsibilityChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B772379626600538240 /* NSObject+ResponsibilityChain.m */; };
-		6D632B7F2379626600538240 /* ResponsibilityMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B7A2379626600538240 /* ResponsibilityMessage.m */; };
-		6D632B802379626600538240 /* ResponsibilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B7B2379626600538240 /* ResponsibilityManager.m */; };
-		6D632B812379626600538240 /* ResponsibilityChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B7D2379626600538240 /* ResponsibilityChain.m */; };
 		6D632B882379630C00538240 /* DefiningTermChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B862379630C00538240 /* DefiningTermChain.m */; };
 		6D632B8B237969D700538240 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B8A237969D700538240 /* SceneDelegate.m */; };
+		6D632B95237970F400538240 /* NSObject+ResponsibilityChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B8E237970F400538240 /* NSObject+ResponsibilityChain.m */; };
+		6D632B96237970F400538240 /* ResponsibilityMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B91237970F400538240 /* ResponsibilityMessage.m */; };
+		6D632B97237970F400538240 /* ResponsibilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B92237970F400538240 /* ResponsibilityManager.m */; };
+		6D632B98237970F400538240 /* ResponsibilityChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D632B94237970F400538240 /* ResponsibilityChain.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,18 +35,18 @@
 		6D632B6A23795F2400538240 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6D632B7223795F8E00538240 /* DJQTextFiledTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DJQTextFiledTitleView.m; sourceTree = "<group>"; };
 		6D632B7323795F8E00538240 /* DJQTextFiledTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DJQTextFiledTitleView.h; sourceTree = "<group>"; };
-		6D632B762379626600538240 /* ResponsibilityMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResponsibilityMessage.h; sourceTree = "<group>"; };
-		6D632B772379626600538240 /* NSObject+ResponsibilityChain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+ResponsibilityChain.m"; sourceTree = "<group>"; };
-		6D632B782379626600538240 /* ResponsibilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResponsibilityManager.h; sourceTree = "<group>"; };
-		6D632B792379626600538240 /* ResponsibilityChain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResponsibilityChain.h; sourceTree = "<group>"; };
-		6D632B7A2379626600538240 /* ResponsibilityMessage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResponsibilityMessage.m; sourceTree = "<group>"; };
-		6D632B7B2379626600538240 /* ResponsibilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResponsibilityManager.m; sourceTree = "<group>"; };
-		6D632B7C2379626600538240 /* NSObject+ResponsibilityChain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+ResponsibilityChain.h"; sourceTree = "<group>"; };
-		6D632B7D2379626600538240 /* ResponsibilityChain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResponsibilityChain.m; sourceTree = "<group>"; };
 		6D632B862379630C00538240 /* DefiningTermChain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DefiningTermChain.m; sourceTree = "<group>"; };
 		6D632B872379630C00538240 /* DefiningTermChain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DefiningTermChain.h; sourceTree = "<group>"; };
 		6D632B89237969D700538240 /* SceneDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SceneDelegate.h; sourceTree = "<group>"; };
 		6D632B8A237969D700538240 /* SceneDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SceneDelegate.m; sourceTree = "<group>"; };
+		6D632B8D237970F400538240 /* ResponsibilityMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResponsibilityMessage.h; sourceTree = "<group>"; };
+		6D632B8E237970F400538240 /* NSObject+ResponsibilityChain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+ResponsibilityChain.m"; sourceTree = "<group>"; };
+		6D632B8F237970F400538240 /* ResponsibilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResponsibilityManager.h; sourceTree = "<group>"; };
+		6D632B90237970F400538240 /* ResponsibilityChain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResponsibilityChain.h; sourceTree = "<group>"; };
+		6D632B91237970F400538240 /* ResponsibilityMessage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResponsibilityMessage.m; sourceTree = "<group>"; };
+		6D632B92237970F400538240 /* ResponsibilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResponsibilityManager.m; sourceTree = "<group>"; };
+		6D632B93237970F400538240 /* NSObject+ResponsibilityChain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+ResponsibilityChain.h"; sourceTree = "<group>"; };
+		6D632B94237970F400538240 /* ResponsibilityChain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResponsibilityChain.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +79,7 @@
 		6D632B5723795F2400538240 /* ResponsibilityChain */ = {
 			isa = PBXGroup;
 			children = (
+				6D632B8C237970F400538240 /* ResponsibilityChain */,
 				6D632B89237969D700538240 /* SceneDelegate.h */,
 				6D632B8A237969D700538240 /* SceneDelegate.m */,
 				6D632B5823795F2400538240 /* AppDelegate.h */,
@@ -89,7 +90,6 @@
 				6D632B6623795F2400538240 /* LaunchScreen.storyboard */,
 				6D632B6A23795F2400538240 /* main.m */,
 				6D632B6123795F2400538240 /* Main.storyboard */,
-				6D632B752379626500538240 /* ResponsibilityChain */,
 				6D632B7123795F8E00538240 /* VIew */,
 				6D632B5E23795F2400538240 /* ViewController.h */,
 				6D632B5F23795F2400538240 /* ViewController.m */,
@@ -106,21 +106,6 @@
 			path = VIew;
 			sourceTree = "<group>";
 		};
-		6D632B752379626500538240 /* ResponsibilityChain */ = {
-			isa = PBXGroup;
-			children = (
-				6D632B7C2379626600538240 /* NSObject+ResponsibilityChain.h */,
-				6D632B772379626600538240 /* NSObject+ResponsibilityChain.m */,
-				6D632B792379626600538240 /* ResponsibilityChain.h */,
-				6D632B7D2379626600538240 /* ResponsibilityChain.m */,
-				6D632B782379626600538240 /* ResponsibilityManager.h */,
-				6D632B7B2379626600538240 /* ResponsibilityManager.m */,
-				6D632B762379626600538240 /* ResponsibilityMessage.h */,
-				6D632B7A2379626600538240 /* ResponsibilityMessage.m */,
-			);
-			path = ResponsibilityChain;
-			sourceTree = "<group>";
-		};
 		6D632B82237962F300538240 /* Business */ = {
 			isa = PBXGroup;
 			children = (
@@ -128,6 +113,21 @@
 				6D632B862379630C00538240 /* DefiningTermChain.m */,
 			);
 			path = Business;
+			sourceTree = "<group>";
+		};
+		6D632B8C237970F400538240 /* ResponsibilityChain */ = {
+			isa = PBXGroup;
+			children = (
+				6D632B8D237970F400538240 /* ResponsibilityMessage.h */,
+				6D632B8E237970F400538240 /* NSObject+ResponsibilityChain.m */,
+				6D632B8F237970F400538240 /* ResponsibilityManager.h */,
+				6D632B90237970F400538240 /* ResponsibilityChain.h */,
+				6D632B91237970F400538240 /* ResponsibilityMessage.m */,
+				6D632B92237970F400538240 /* ResponsibilityManager.m */,
+				6D632B93237970F400538240 /* NSObject+ResponsibilityChain.h */,
+				6D632B94237970F400538240 /* ResponsibilityChain.m */,
+			);
+			path = ResponsibilityChain;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,16 +200,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6D632B95237970F400538240 /* NSObject+ResponsibilityChain.m in Sources */,
 				6D632B6023795F2400538240 /* ViewController.m in Sources */,
 				6D632B5A23795F2400538240 /* AppDelegate.m in Sources */,
 				6D632B6B23795F2400538240 /* main.m in Sources */,
-				6D632B812379626600538240 /* ResponsibilityChain.m in Sources */,
 				6D632B882379630C00538240 /* DefiningTermChain.m in Sources */,
-				6D632B802379626600538240 /* ResponsibilityManager.m in Sources */,
-				6D632B7E2379626600538240 /* NSObject+ResponsibilityChain.m in Sources */,
+				6D632B97237970F400538240 /* ResponsibilityManager.m in Sources */,
 				6D632B8B237969D700538240 /* SceneDelegate.m in Sources */,
+				6D632B98237970F400538240 /* ResponsibilityChain.m in Sources */,
 				6D632B7423795F8E00538240 /* DJQTextFiledTitleView.m in Sources */,
-				6D632B7F2379626600538240 /* ResponsibilityMessage.m in Sources */,
+				6D632B96237970F400538240 /* ResponsibilityMessage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
